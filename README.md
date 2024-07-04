@@ -8,7 +8,7 @@ This project is a sentiment analysis system that leverages machine learning tech
 - **Model Training and Evaluation**: Training and evaluating a Naive Bayes classifier for sentiment analysis.
 - **Prediction Interface**: Easy-to-use interface for analyzing the sentiment of new comments.
 - **Performance Visualization**: Visualizing the performance of the trained model.
-# Tech Stack
+#### Tech Stack
 - **Programming Language**: Python
 - **Data Manipulation and Analysis**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn, WordCloud
